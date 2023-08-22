@@ -1,5 +1,5 @@
 import { createRouter, RouteRecordRaw, createWebHistory } from "vue-router";
-import Navbar from "./components/Navbar.vue"
+
 import About from "./pages/About.vue"
 import Contact from "./pages/Contact.vue"
 import Home from "./pages/Home.vue"
